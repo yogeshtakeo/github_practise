@@ -8,4 +8,6 @@ We learnt on how we can use the github
 we learnt on how easy it is to get the gthub up and running.
 
 
-##day 2 
+## Day 2 
+
+Hey this is the session we learnt about some of the basic commands of git wil the help of Figma diagrams and Visualization of thhe git
