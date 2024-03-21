@@ -1,7 +1,13 @@
-h2{
-    color:blue
+h2 {
+  color: blue;
 }
 
-p{
-    color:red
+p {
+  color: red;
+}
+
+div {
+  background-color: aliceblue;
+  flex: 1;
+  display: flex;
 }
